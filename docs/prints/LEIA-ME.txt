@@ -1,0 +1,7 @@
+Coloque aqui os prints (PNG) tirados do emulador, com EXATAMENTE estes nomes:
+
+tela-inicial.png  - tela do app aberta
+logcat.png        - Logcat com a listagem (filtro tag:TAG)
+a1.png ... a8.png - um print para cada item da Parte A
+
+Depois de colocar os prints, pode apagar este arquivo.
